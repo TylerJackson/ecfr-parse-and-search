@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@serverless/typescript": "^3.38.0",
+    "@types/node": "^20.13.0",
+    "esbuild": "^0.21.4",
+    "serverless-esbuild": "^1.52.1",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.588.0",
+    "axios": "^1.7.2",
+    "cheerio": "1.0.0-rc.12",
+    "html-to-json-parser": "^2.0.1",
+    "mongodb": "^6.7.0",
+    "openai": "^4.47.3"
+  }
+}
